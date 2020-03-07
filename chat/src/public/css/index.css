@@ -11,6 +11,10 @@
     
 }
 
-#global{
-    height
+.error{
+    color:red;
+}
+.whisper{
+    color:gray;
+    font-style:italic;
 }
